@@ -1,9 +1,12 @@
 {
-  "appId": "U84TlyqcG8WBYa1iDI9eksVQEDKPpEeD7FgC4zs2",
-  "masterKey": "rylVecllz2o2iqwDqczwSpVebmxtp1joLzEGwTf6",
+  "appId": "from .env file",
+  "masterKey": "from .env file",
   "appName": "parse-tutorial",
   "cloud": "./cloud/main",
   "databaseURI": "mongodb://127.0.0.1:27017/parse",
-  "mountPlayground": true,
-  "mountGraphQL": true
+  "serverURL": "http://localhost:8000/parse",
+  "publicServerURL": "http://localhost:8000/parse",
+  "graphQLServerURL": "http://localhost:8000/graphql",
+  "graphQLPath": "/graphql",
+  "playgroundPath": "/playground"
 }
