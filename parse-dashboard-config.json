@@ -4,7 +4,8 @@
       "serverURL": "http://localhost:1337/parse",
       "appId": "U84TlyqcG8WBYa1iDI9eksVQEDKPpEeD7FgC4zs2",
       "masterKey": "rylVecllz2o2iqwDqczwSpVebmxtp1joLzEGwTf6",
-      "appName": "parse-tutorial"
+      "appName": "parse-tutorial",
+      "graphQLServerURL": "http://localhost:1337/graphql"
     }
   ]
 }
