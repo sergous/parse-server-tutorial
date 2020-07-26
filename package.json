@@ -1,0 +1,12 @@
+{
+  "name": "parse-tutorial",
+  "description": "parse-server for parse-tutorial",
+  "scripts": {
+    "start:db": "mongodb-runner start",
+    "start:server": "parse-server config.json",
+    "start:dashboard": "parse-dashboard --config parse-dashboard-config.json"
+  },
+  "dependencies": {
+    "parse-server": "^3.9.0"
+  }
+}
