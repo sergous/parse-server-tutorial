@@ -14,7 +14,7 @@ const Todo = new Parse.Object('Todo');
 Todo.set('title', 'Todo').set('isDone', false);
 await Todo.save();
 ```
-Code: [todo-app-mobx](https://github.com/sergous/todo-app-mobx)
+Code: [parse-todo-app](https://github.com/sergous/parse-todo-app)
 
 ## Credits
 Code: [parse-community/parse-server](https://github.com/parse-community/parse-server)
