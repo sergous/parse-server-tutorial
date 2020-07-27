@@ -1,4 +1,4 @@
-# Parse Server Tutorial
+# Parse Express Server
 Basic server setup with [parse-dashboard](https://github.com/parse-community/parse-dashboard).
 
 ## Install
